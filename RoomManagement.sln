@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomManagement", "RoomManagement\RoomManagement.csproj", "{C3530D0C-0714-4950-B9B3-D428C4A38C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomManagementBL", "RoomManagementBL\RoomManagementBL.csproj", "{3F8BE2F4-DE07-4143-B990-9741893704BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3530D0C-0714-4950-B9B3-D428C4A38C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3530D0C-0714-4950-B9B3-D428C4A38C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3530D0C-0714-4950-B9B3-D428C4A38C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3530D0C-0714-4950-B9B3-D428C4A38C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8BE2F4-DE07-4143-B990-9741893704BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8BE2F4-DE07-4143-B990-9741893704BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8BE2F4-DE07-4143-B990-9741893704BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8BE2F4-DE07-4143-B990-9741893704BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4EF821-7D2F-4837-8C84-70CD63EC2D61}
+	EndGlobalSection
+EndGlobal
